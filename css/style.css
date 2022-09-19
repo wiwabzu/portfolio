@@ -107,3 +107,11 @@ section{
     height: calc(100vh - 80px);
   
 }
+.logomain img{
+    /* background-color: aqua; */
+    margin-left: 800px;
+    padding: 100px;
+}
+.logomain2 img{
+    height: 200px;
+}
