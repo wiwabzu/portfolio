@@ -101,7 +101,7 @@ a.active,a:hover{
     
 }
 section{
-    background: url('../images/cozy.jpg') no-repeat;
+    background: url('images/cozy.jpg') no-repeat;
     background-size: cover;
     /* background-repeat: no-repeat; */
     background-attachment: fixed;
