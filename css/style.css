@@ -23,6 +23,8 @@ label.logo{
     padding: 0 100px;
     font-weight: bold;
   
+    /* background-color: #0082e6; */
+
 
 }
 nav ul{
@@ -99,7 +101,7 @@ a.active,a:hover{
     
 }
 section{
-    background: url(https://unsplash.com/photos/gySMaocSdqs)no-repeat;
+    background: url("../img/top-view-arrangement-natural-material-stationery.jpg") no-repeat;
     background-size: cover;
     /* background-repeat: no-repeat; */
     background-attachment: fixed;
