@@ -16,19 +16,13 @@ nav{
 
 }
 label.logo{
+    
     color: white;
     font-size: 35px;
     line-height: 80px;
     padding: 0 100px;
     font-weight: bold;
-    /* height: 200px;
-    width: 200px;
-    padding-bottom: 120px; */
-   
-    
-    
-    /* background-color: #0082e6; */
-
+  
 
 }
 nav ul{
@@ -105,7 +99,7 @@ a.active,a:hover{
     
 }
 section{
-    background: url(img/top-view-arrangement-natural-material-stationery.jpg) no-repeat;
+    background: url(/img/cookie-the-pom-gySMaocSdqs-unsplash.jpg) no-repeat;
     background-size: cover;
     /* background-repeat: no-repeat; */
     background-attachment: fixed;
