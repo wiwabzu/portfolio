@@ -101,7 +101,7 @@ a.active,a:hover{
     
 }
 section{
-    background: url(images/coffee.jpg) no-repeat;
+    background: url(../images/coffee.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     height: calc(100vh - 80px);
